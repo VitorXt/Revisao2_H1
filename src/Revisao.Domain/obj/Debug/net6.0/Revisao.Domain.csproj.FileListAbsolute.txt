@@ -1,0 +1,12 @@
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Domain\bin\Debug\net6.0\Revisao.Domain.deps.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Domain\bin\Debug\net6.0\Revisao.Domain.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Domain\bin\Debug\net6.0\Revisao.Domain.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Domain\obj\Debug\net6.0\Revisao.Domain.csproj.AssemblyReference.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Domain\obj\Debug\net6.0\Revisao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Domain\obj\Debug\net6.0\Revisao.Domain.AssemblyInfoInputs.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Domain\obj\Debug\net6.0\Revisao.Domain.AssemblyInfo.cs
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Domain\obj\Debug\net6.0\Revisao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Domain\obj\Debug\net6.0\Revisao.Domain.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Domain\obj\Debug\net6.0\refint\Revisao.Domain.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Domain\obj\Debug\net6.0\Revisao.Domain.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Domain\obj\Debug\net6.0\ref\Revisao.Domain.dll

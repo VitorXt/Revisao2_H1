@@ -1,0 +1,15 @@
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\bin\Debug\net6.0\Revisao.Data.deps.json
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\bin\Debug\net6.0\Revisao.Data.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\bin\Debug\net6.0\Revisao.Data.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\bin\Debug\net6.0\Revisao.Domain.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\bin\Debug\net6.0\Revisao.Domain.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.csproj.AssemblyReference.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.AssemblyInfoInputs.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.AssemblyInfo.cs
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.csproj.CoreCompileInputs.cache
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.csproj.CopyComplete
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\obj\Debug\net6.0\refint\Revisao.Data.dll
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\obj\Debug\net6.0\Revisao.Data.pdb
+C:\Users\Maria das Graças\Desktop\Vitor\Faculdade\4º Periodo\Humberto\1º Bimestre\Revisao2\Revisao_136-638307449909967859\Revisao\src\Revisao.Data\obj\Debug\net6.0\ref\Revisao.Data.dll
